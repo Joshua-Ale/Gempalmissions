@@ -1,0 +1,214 @@
+body{
+    background-color:#eaeeff;
+    color:#333;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:16px;
+    list-style: height 1.6em;
+    margin:0;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+}
+
+#main-menu{
+    background:#cd123;
+    color:#250125;
+}
+
+#main-menu a{
+    color:#250125;
+    text-decoration:none;
+}
+
+#logo{
+    float:left;
+    width:100px;
+    height:100px;
+}
+
+#logo-name{
+    float:left;
+    padding-left:0px;
+    padding-top: 20px;
+    color: #1c056f;
+}
+
+#navbar{
+    background:rgb(13, 9, 67);
+    color:#fff;
+}
+
+#navbar ul{
+    padding:0;
+    list-style:none;
+}
+
+#navbar li{
+    display:inline;
+}
+
+#navbar a{
+    font-size:20px;
+    text-decoration:none;
+    color:#fff;
+    padding-right:40px;
+    font-weight:bold;
+}
+
+#showcase{
+   background-image:url(file:///C:/Users/NEW%20USER/Downloads/outreach%20is%20our%20delight.png); 
+   background-position:left;
+   height:350px;
+   margin-bottom:30px;
+   text-align-last:center;
+}
+
+#showcase h1{
+    color:rgb(249, 249, 162);
+    padding-top:30px;
+    font-size:40px;
+}
+
+#showcase h3{
+    color:#fff;
+    line-height:1.7em;
+    font-style:italic;
+}
+
+#overview ul{
+    padding:0px;
+    list-style:none;
+    text-align:center;
+    word-spacing:20px;
+}
+
+#overview li{
+    display:inline;
+    font-weight:bold;
+    font-size:20px;
+}
+
+#overview a{
+    text-decoration:none;
+    color:#333;
+}
+
+#overview p{
+    text-align:center;
+    line-height:1.6em;
+    color:#310;
+    margin-left:170px;
+    margin-right:170px;
+    padding-top:10px;
+    font-size:18px;
+}
+
+#Our-Skills h1{
+    font-size:36px;
+    margin-left:30%;
+    padding-top:40px;
+    color:#000;
+}
+
+#Our-Skills p{
+    font-size:20px;
+    margin-left:30%;
+    padding-top:0px;
+    line-height:1.6em;
+}
+
+#workbar{
+    background:#255;
+    height:350px;
+    color:#fff
+}
+
+#workbar p{
+    margin-top:20px;
+    font-size:30px;
+    text-align:center;
+    font-style:normal;
+}
+
+#workbar table{
+    word-spacing:0px;
+    padding-inline:30px;
+    font-style:oblique;
+    font-size:18px;
+}
+
+#side-bar{
+    float:left;
+    width:30%;
+    color:#000;
+    padding:10px;
+    margin-top:40px;
+    line-height:0.2em;
+}
+
+#side-bar p{
+    color:#651;
+    font-weight:bold;
+}
+
+#side-bar h1{
+    color:#000;
+    font-size:36px;
+}
+
+#main{
+    float:right;
+    width:65%;
+    color:#651
+}
+
+#main p{
+    margin-top:60px;
+    line-height:1.4em;
+    font-size:17px;
+}
+
+#social-media ul{
+    padding:0px;
+    list-style:none;
+    margin-bottom:40px;
+}
+
+#social-media li{
+    display:inline;
+    padding-right:10px;
+}
+
+#block-area{
+    background:#333;
+    height:320px;
+    color:#fff;
+    float:left;
+    margin-bottom:none;
+}
+
+.block{
+    color:#fff;
+    float:left;
+    width:20%;
+    margin:15px;
+    padding-right:18px;
+    padding-left:15px;
+    padding-top:20px;
+    line-height:1.4em;
+}
+
+#main-footer{
+    background:#000;
+    color:#fff;
+    text-align:center;
+    padding-top:10px;
+}
+
+
+
+
+
